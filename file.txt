@@ -1,3 +1,6 @@
 This is text file content
 
+
+this is a conflict
+
 it has content
